@@ -19,6 +19,7 @@ spec:
         image: jenkins/jenkins:lts-jdk11
         ports:
         - containerPort: 8080
+        
         volumeMounts:
         - name: jenkinspvc
           mountPath: /var/jenkins_home
