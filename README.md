@@ -24,6 +24,7 @@ O projeto consiste na criação de um ambiente da plataforma Moodle. O Moodle é
   </tr>	 
 </table>
 
-
+## Topologia
+![infra_moodle](https://user-images.githubusercontent.com/114024164/196743875-42f83b85-34cb-4348-8abe-eb0e6f6f5fa0.png)
 
 
