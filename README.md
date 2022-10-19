@@ -1,8 +1,14 @@
-![moodle](https://user-images.githubusercontent.com/114024164/196734767-e2954501-c7c7-4bc2-8897-cf07038633b2.png)
+![moodle1](https://user-images.githubusercontent.com/114024164/196735400-be7d8bbd-255c-4ab6-9fcb-320a043709c2.jpg)
 
 > Status: Produção
 
-### O projeto consiste na criação de um ambiente da plataforma Moodle. O Moodle é uma plataforma de aprendizagem projetada para fornecer a educadores, administradores e alunos um único sistema robusto, seguro e integrado para criar ambientes de aprendizagem personalizados.
+### Descrição Executiva
+
+Esse documento apresenta projeto de inovação tecnológica, em consonância com os itens XI.02, XI.03 e XI.17, objeto do contrato 05/2021 – Processo Nº 47648.000354/2020-64, com o objetivo de propor a implantação da Plataforma Moodle na infraestrutura da Fundacentro.
+
+### Descrição Técnica
+
+O projeto consiste na criação de um ambiente da plataforma Moodle. O Moodle é uma plataforma de aprendizagem projetada para fornecer a educadores, administradores e alunos um único sistema robusto, seguro e integrado para criar ambientes de aprendizagem personalizados.
 
 ## Tecnologias Usadas
 <table>
