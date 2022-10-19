@@ -16,11 +16,15 @@ O projeto consiste na criação de um ambiente da plataforma Moodle. O Moodle é
      <td>Docker</td>
 	 <td>Compose</td>
   <td>Nginx</td>
+    <td>Moodle</td>
+	  <td>MariaDb</td>
   </tr>
   <tr>
      <td>1.13</td>
 	 <td>1.29</td>
    <td>1.20</td>   
+   <td>4.0</td>
+   <td>10.6</td>
   </tr>	 
 </table>
 
